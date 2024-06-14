@@ -1,0 +1,59 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    font-family: "Sofia";
+    font-size: 50px;
+    text-shadow: 3px 3px 3px #ababab;
+}
+
+section{
+    text-align: center;
+    margin-left: 18em;
+    width:300px;
+    font-size:xx-large;
+    font-weight:600;
+    font-family: "Tangerine";
+}
+
+footer{
+    text-align: end;
+    font-family: "Sofia";
+    font-size: 30px;
+    text-shadow: 3px 3px 3px #ababab;
+}
+
+#one{
+    color:red;
+}
+
+#two{
+    color: blue;
+}
+
+#three{
+    color:purple ;
+}
+
+#four{
+    color: red;
+}
+
+#five{
+    color:black;
+}
+
+#six{
+    color: green;
+}
+
+#seven{
+    color: blue;
+}
+
+#eight{
+    color:purple;
+}
